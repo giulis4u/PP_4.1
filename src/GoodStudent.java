@@ -88,7 +88,7 @@ public class GoodStudent
     {
         String output = "\n Students first name: " + firstname +
                 "\n Last name: " + lastName + "\n Number: " + number +
-                        "\n GPA " + gpa + "\n and their CSA gpa: " + CSAGPA() +  "\n CS STUDENT?: " + csStudent + "\n ID " + CreateID();
+                        "\n GPA " + gpa +  "\n CS STUDENT?: " + csStudent + "\n ID " + CreateID();
         return output;
     }
 
